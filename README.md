@@ -1,29 +1,31 @@
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="10">
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="33%" align="left" valign="top">
-      <img src="https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/left.gif" alt="gif 1" width="160">
+    <td width="30%" align="left" valign="top">
+      &nbsp;
     </td>
-    <td width="34%" align="center" valign="top">
+    <td width="40%" align="center" valign="top">
       <h1>
-        <span style="background-color: #00FF00; color: #00008B; padding: 4px 12px; border-radius: 4px;">SinXXL</span>
+        <span style="background-color: #00FF00; color: #00008B; padding: 6px 16px; border-radius: 6px; font-weight: bold;">SinXXL</span>
       </h1>
-      <p>ʜᴇʟʟᴏ!! ɪᴍ ᴀʀᴛɪꜱᴛ, ᴀɴᴅ ᴛʜᴇ ᴍᴀɪɴ ᴄʟᴏᴡɴ :𝟥.</p>
+      <p>HELLO!! IM ARTIST, AND THE MAIN CLOWN :3.</p>
     </td>
-    <td width="33%" align="right" valign="top">
+    <td width="30%" align="right" valign="top">
       &nbsp;
     </td>
   </tr>
   <tr>
-    <td align="left" valign="bottom">
-      &nbsp;
+    <td align="left" valign="top">
+      <br><br><br>
+      <img src="https://raw.githubusercontent.com/SinXXL/Sin/main/left.gif" alt="gif 1" width="160">
     </td>
-    <td align="center" valign="bottom">
+    <td align="center" valign="middle">
       &nbsp;
     </td>
     <td align="right" valign="bottom">
-      <img src="https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/right.gif" alt="gif 2" width="160">
+      <br><br><br><br><br><br>
+      <img src="https://raw.githubusercontent.com/SinXXL/Sin/main/right.gif" alt="gif 2" width="160">
     </td>
   </tr>
 </table>

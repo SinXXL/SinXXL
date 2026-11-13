@@ -1,6 +1,33 @@
+<div align="center">
 
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
+  <tr>
+    <td width="30%" align="left" valign="top">
+      &nbsp;
+    </td>
+    <td width="40%" align="center" valign="top">
+      <h1>
+        <span style="background-color: #00FF00; color: #00008B; padding: 6px 16px; border-radius: 6px; font-weight: bold;">SinXXL</span>
+      </h1>
+      <p>HELLO!! IM ARTIST, AND THE MAIN CLOWN :3.</p>
+    </td>
+    <td width="30%" align="right" valign="top">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+      <br><br><br>
+      <img src="https://raw.githubusercontent.com/SinXXL/Sin/main/left.gif" alt="gif 1" width="160">
+    </td>
+    <td align="center" valign="middle">
+      &nbsp;
+    </td>
+    <td align="right" valign="bottom">
+      <br><br><br><br><br><br>
+      <img src="https://raw.githubusercontent.com/SinXXL/Sin/main/right.gif" alt="gif 2" width="160">
+    </td>
+  </tr>
+</table>
 
-<img src="https://i.ibb.co/nNCQ6rFQ/102-20261107042440.png" alt="gif 2" width="160">
-<img src="https://i.ibb.co/7dVQDj9F/105-20261111003142.png" alt="gif 2" width="160">
-<img src="https://i.ibb.co/xKftbxYh/photo-2026-10-17-18-41-22.jpg" alt="gif 2" width="160">
-<img src="https://i.ibb.co/7Ny4F84B/77-20261017165857.png" alt="gif 2" width="160">
+</div>
